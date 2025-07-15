@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+arxiv
+PyMuPDF
+torch
+transformers
+Pillow
+Levenshtein
+tqdm
