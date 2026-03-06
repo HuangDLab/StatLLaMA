@@ -81,7 +81,7 @@ The dataset on Kaggle is organized to correspond with the different stages of th
 ### 4.2. Installation
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/EiLaTe123/StatLLaMA
+    git clone https://github.com/HuangDLab/StatLLaMA
     cd StatLLaMA
     pip install -e .
     ```
