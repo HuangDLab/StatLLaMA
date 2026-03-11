@@ -133,4 +133,4 @@ If you find this research or any of the accompanying tools useful, please consid
 
 ## 7. Acknowledgements
 
-This research was partially supported by grants from the Ministry of Science and Technology, Taiwan (MOST 111-2118-M-A49-003-MY2) and the National Science and Technology Council, Taiwan (NSTC 113-2118-M-A49-006 and NSTC 114-2118-M-A49-002). We are grateful to the National Center for High-performance Computing, Taiwan for computer time and facilities. During the preparation of this work, the authors used OpenAI’s ChatGPT in order to improve language and readability. After using this tool, the authors reviewed and edited the content as needed and take full responsibility for the content of the publication.
+This research was partially supported by grants from the Ministry of Science and Technology, Taiwan (MOST 111-2118-M-A49-003-MY2) and the National Science and Technology Council, Taiwan (NSTC 113-2118-M-A49-006 and NSTC 114-2118-M-A49-002). We are grateful to the National Center for High-performance Computing, Taiwan for computer time and facilities.
